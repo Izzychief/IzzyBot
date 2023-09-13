@@ -1,0 +1,17 @@
+{
+  "name": "izzybot",
+  "version": "1.0.0",
+  "description": "A simple discord bot made by me. That's it.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IzzyChief",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.49.0"
+  }
+}
